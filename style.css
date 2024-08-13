@@ -1,0 +1,9 @@
+.info2{
+    filter: blur(15px);
+
+}
+
+.info2:hover{
+    filter: blur(0px);
+    transition: 1s;
+}
